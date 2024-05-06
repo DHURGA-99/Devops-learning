@@ -1,0 +1,5 @@
+#Assignment 1 creation of ec2 instance#
+1.Go to AWS console search "EC2 instance".
+2.click on launch instance
+3.fill the required details " select ubuntu 22.04 AMI image"
+4. click on save
