@@ -16,3 +16,4 @@ git add . - current folder adding
 git commit "my first commit"
 config --global user.email dhurga.mk99@gmail.com
 config --global user.name DHURGA-99
+git push origin master
