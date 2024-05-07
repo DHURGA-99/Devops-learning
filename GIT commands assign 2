@@ -1,0 +1,18 @@
+Create EC2 (UBUNTU lINUX)
+OPEN ssh
+commands:
+git- to check whther git is available.
+git--version - to check the git version
+mkdir git_demo -to create working directory using linux commands.
+cd git_demo\
+ls -ltr -listeing folder
+ls -ltra- listing hidden folder
+Git init -to initialize git folder
+ls -ltr .git
+cat .git/HEAD
+Git status
+ touch file2.txt --- to create a New file
+git add . - current folder adding
+git commit "my first commit"
+config --global user.email dhurga.mk99@gmail.com
+config --global user.name DHURGA-99
